@@ -1,2 +1,3 @@
-# rep-intuitive
-some of my first experiencies.
+# rep-intuitive1
+aprendendo a usar git e github(teste)
+
